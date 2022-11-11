@@ -48,6 +48,7 @@ namespace ConsoleApp2
             Console.WriteLine(result[1].ToString("dd.MM.yyyy"));
             Console.WriteLine();
             Console.WriteLine("000");
+            Console.WriteLine("Add deb!");
             Console.ReadKey();
         }
     }
