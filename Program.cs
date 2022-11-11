@@ -46,6 +46,8 @@ namespace ConsoleApp2
             DateTime[] result = Comparedates(dateholder);
             Console.WriteLine(result[0].ToString("dd.MM.yyyy"));
             Console.WriteLine(result[1].ToString("dd.MM.yyyy"));
+            Console.WriteLine();
+            Console.WriteLine("000");
             Console.ReadKey();
         }
     }
