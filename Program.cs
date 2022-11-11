@@ -49,6 +49,7 @@ namespace ConsoleApp2
             Console.WriteLine();
             Console.WriteLine("000");
             Console.WriteLine("FUCK1");
+            Console.WriteLine("FUCK1");
             Console.ReadKey();
         }
     }
