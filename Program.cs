@@ -50,6 +50,7 @@ namespace ConsoleApp2
             Console.WriteLine("000");
             Console.WriteLine("Add deb!");
             Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
